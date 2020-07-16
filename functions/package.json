@@ -5,7 +5,7 @@
   "private": true,
   "main": "build/index.js",
   "engines": {
-    "node": "8"
+    "node": "10"
   },
   "keywords": [
     "walletconnect",
@@ -51,7 +51,7 @@
     "@hapi/joi": "^16.1.8",
     "axios": "^0.19.0",
     "cors": "^2.8.5",
-    "firebase-admin": "^8.8.0",
+    "firebase-admin": "^8.13.0",
     "firebase-functions": "^3.3.0"
   }
 }
